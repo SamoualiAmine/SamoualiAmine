@@ -1,4 +1,9 @@
-## Hi there 👋
+# Salut, je suis Amine 👋
+
+🎓 Développeur Full Stack — ISTA Maamora, Kénitra
+💼 Laravel | React.js | TypeScript | MySQL | MongoDB
+🌱 Actuellement en train de construire mes premiers projets personnels
+📫 Contact : samoualiamine@gmail.com## Hi there 👋
 
 <!--
 **SamoualiAmine/SamoualiAmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
